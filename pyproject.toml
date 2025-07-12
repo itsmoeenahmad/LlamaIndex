@@ -1,0 +1,12 @@
+[project]
+name = "rag-llm-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "llama-index>=0.12.48",
+    "openai>=1.95.1",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+]
