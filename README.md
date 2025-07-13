@@ -1,2 +1,5 @@
-# LlamaIndex
-This repository contains a complete LlamaIndex based RAG implementation using OpenAI embeddings. It demonstrates how to load and index documents, persist the vector store locally, and expose a query API. It also includes guidance on how to call and query an index hosted on LlamaCloud.
+**Before You Use the Code**
+
+Take a moment to read through the code instead of just copy-pasting it. I have added comments to explain each part so you can understand what is happening step by step.
+
+If anything is unclear or you are stuck, feel free to reach out - you can DM me on Instagram or LinkedIn. I am happy to help!
